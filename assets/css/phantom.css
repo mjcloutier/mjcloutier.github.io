@@ -381,8 +381,9 @@ footer p {
 	animation-duration:3s;
 }
 .sample .title a {
-	display:block;
-	border-bottom:none;
+	display: block;
+	border-bottom: none;
+	color: #2e9fff !important;
 }
 .sample .container {
 	padding-top:130px;
